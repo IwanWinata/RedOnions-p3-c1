@@ -1,0 +1,205 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Chicken Burrito",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 40000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/jrzffqnzh8a5dqg9u5waba_product_list.png",
+      "status": "Available",
+      "AuthorId": 1,
+      "CategoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Steak Burrito",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 40000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/qbvrtylbxv9pqvb3vxpjpm_product_list.png",
+      "status": "Available",
+      "AuthorId": 1,
+      "CategoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Carnitas Burrito",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 40000,
+      "imgUrl": "https://pngimg.com/uploads/burger_sandwich/burger_sandwich_PNG4135.png",
+      "status": "Available",
+      "AuthorId": 1,
+      "CategoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Barbacoa Burrito",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 40000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/qbvrtylbxv9pqvb3vxpjpm_product_list.png",
+      "status": "Available",
+      "AuthorId": 1,
+      "CategoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Chorizo Burrito",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 40000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/qbvrtylbxv9pqvb3vxpjpm_product_list.png",
+      "status": "Available",
+      "AuthorId": 1,
+      "CategoryId": 1
+    },
+    {
+      "name": "Sofritas Burrito",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 40000,
+      "imgUrl": "https://pngimg.com/uploads/burger_sandwich/burger_sandwich_PNG4135.png",
+      "status": "Available",
+      "AuthorId": 1,
+      "CategoryId": 1,
+      "id": 6
+    },
+    {
+      "name": "Chiken Crispy",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 90000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/qbvrtylbxv9pqvb3vxpjpm_product_list.png",
+      "status": "Not Available",
+      "AuthorId": 1,
+      "CategoryId": 6,
+      "id": 7
+    },
+    {
+      "name": "BBQ Chicken Flatbread",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 90000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/qbvrtylbxv9pqvb3vxpjpm_product_list.png",
+      "status": "Not Available",
+      "AuthorId": 1,
+      "CategoryId": 6
+    },
+    {
+      "name": "Chicken Flatbread",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 90000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/qbvrtylbxv9pqvb3vxpjpm_product_list.png",
+      "status": "Not Available",
+      "AuthorId": 1,
+      "CategoryId": 6
+    },
+    {
+      "name": "Tomato Mozzarella Flatbread",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 90000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/qbvrtylbxv9pqvb3vxpjpm_product_list.png",
+      "status": "Not Available",
+      "AuthorId": 1,
+      "CategoryId": 6
+    },
+    {
+      "name": "Roasted Turkey Cranberry Flatbread",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 90000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/qbvrtylbxv9pqvb3vxpjpm_product_list.png",
+      "status": "Not Available",
+      "AuthorId": 1,
+      "CategoryId": 6
+    },
+    {
+      "name": "Turkey Cranberry Flatbread",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 90000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/qbvrtylbxv9pqvb3vxpjpm_product_list.png",
+      "status": "Not Available",
+      "AuthorId": 1,
+      "CategoryId": 6
+    },
+    {
+      "name": "Half Size Italian on Hoagie Roll",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 90000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/qbvrtylbxv9pqvb3vxpjpm_product_list.png",
+      "status": "Not Available",
+      "AuthorId": 1,
+      "CategoryId": 6
+    },
+    {
+      "name": "Half Italian",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 90000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/qbvrtylbxv9pqvb3vxpjpm_product_list.png",
+      "status": "Not Available",
+      "AuthorId": 1,
+      "CategoryId": 6
+    },
+    {
+      "name": "Italian",
+      "description": "100% juicy Australian beef grilled to perfection with fresh lettuce, sliced ​​onions and tomatoes wrapped in mayonnaise and tomato sauce and wrapped in a soft toasted bun.",
+      "price": 90000,
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/group_photo/2021/1/22/qbvrtylbxv9pqvb3vxpjpm_product_list.png",
+      "status": "Not Available",
+      "AuthorId": 1,
+      "CategoryId": 6
+    }
+  ],
+  "Authors": [
+    {
+      "id": 1,
+      "username": "user",
+      "email": "user@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "082264791439",
+      "address": "where"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Burger"
+    },
+    {
+      "id": 2,
+      "name": "Burrito"
+    },
+    {
+      "id": 3,
+      "name": "Kebab"
+    },
+    {
+      "id": 4,
+      "name": "Taco"
+    },
+    {
+      "id": 5,
+      "name": "Pie"
+    },
+    {
+      "name": "Steak",
+      "id": 6
+    }
+  ],
+  "Ingredients": [
+    {
+      "id": 1,
+      "name": "Meat"
+    },
+    {
+      "id": 1,
+      "name": "Lettuce"
+    },
+    {
+      "id": 1,
+      "name": "Bacon"
+    },
+    {
+      "id": 1,
+      "name": "Tomato"
+    },
+    {
+      "id": 1,
+      "name": "Pickle"
+    }
+  ]
+}
